@@ -1,0 +1,13 @@
+Project Title: Rock-Paper-Scissors Game using Java Swing
+
+Description:
+This project is a simple Rock-Paper-Scissors game developed using Java Swing. The player selects Rock, Paper, or Scissors, and the computer randomly selects one as well. The winner is determined based on the game's standard rules.
+
+Technologies Used:
+- Java
+- Java Swing (GUI)
+- Random class
+
+How to Run:
+1. Compile: javac RockPaperScissors.java
+2. Run:     java RockPaperScissors
