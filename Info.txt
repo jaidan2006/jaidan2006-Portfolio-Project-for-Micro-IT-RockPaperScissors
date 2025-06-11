@@ -9,5 +9,5 @@ Technologies Used:
 - Random class
 
 How to Run:
-1. Compile: javac RockPaperScissors.java
-2. Run:     java RockPaperScissors
+1. Compile: javac Rock_Paper_Scissors.java
+2. Run:     java Rock_Paper_Scissors
