@@ -21,7 +21,7 @@ public class Rock_Paper_Scissors extends JFrame implements ActionListener {
         setLocationRelativeTo(null);
         setLayout(new BorderLayout(10, 10));
 
-        // Labels
+        
         resultLabel = new JLabel("Make your move!", SwingConstants.CENTER);
         resultLabel.setFont(new Font("Arial", Font.BOLD, 20));
         add(resultLabel, BorderLayout.NORTH);
@@ -33,7 +33,7 @@ public class Rock_Paper_Scissors extends JFrame implements ActionListener {
         statusPanel.add(computerChoiceLabel);
         add(statusPanel, BorderLayout.CENTER);
 
-        // Buttons Panel
+        
         JPanel buttonPanel = new JPanel();
         buttonPanel.setLayout(new FlowLayout());
 
